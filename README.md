@@ -1,7 +1,8 @@
 <!-- Banner Section -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20,%20I'm%20Vedant%20Singh%20Chauhan&fontSize=40&fontAlignY=40&desc=Developer%20solving%20real-world%20problems%20with%20innovative%20tech%20and%20continuous%20learning.&descAlignY=60&descAlign=60&descFontSize=16" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20👋,%20I'm%20Vedant%20Singh%20Chauhan&fontSize=40&fontAlignY=40&desc=Solving%20real%20problems%20with%20innovative%20tech.&descAlignY=60&descAlign=60&descFontSize=16" alt="header" />
 </p>
+
 
 
 <p align="center">
