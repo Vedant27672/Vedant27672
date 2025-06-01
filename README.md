@@ -79,11 +79,14 @@
 
 ---
 
-## 📈 Contribution Graph
+---
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vedant27672&theme=github-compact" alt="Contribution Graph"/>
-</p>
+### 📊 Contribution Graph
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Vedant's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vedant27672&theme=react-dark&hide_border=true&area=true" />
+</a>
+
 
 ---
 
