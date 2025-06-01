@@ -3,7 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20👋,%20I'm%20Vedant%20Singh%20Chauhan&fontSize=40&fontAlignY=40&desc=A%20passionate%20developer%20focused%20on%20solving%20real-world%20problems%20using%20innovative%20technologies%20and%20continuous%20learning.&descAlignY=60&descAlign=60&descFontSize=16" alt="header" />
 </p>
 
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=vedant27672&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -12,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 Currently learning **Blockchain Development**
 - 💬 Ask me about **Web Development, Machine Learning, and Open Source**
 - 📫 Reach me at **vedant2004chauhan@gmail.com**
 - ⚡ Fun fact: I love exploring new tech and building side projects!
@@ -82,9 +81,11 @@
 
 ## 📈 Contribution Graph
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Vedant's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vedant27672&theme=react-dark&hide_border=true&area=true" />
-</a>
+<p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="Vedant's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vedant27672&theme=react-dark&hide_border=true&area=true" />
+    </a>
+</p>
 
 ---
 
