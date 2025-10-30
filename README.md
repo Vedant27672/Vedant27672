@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- [cite_start]🧑‍💻 Software Engineer Intern at **Salescode.ai** — building scalable production services & integrations [cite: 1, 16]
+- [cite_start]🧑‍💻 **Software Engineer Intern** at **Salescode.ai** [cite: 1, 16] — building scalable production services & integrations
 - 🌱 Currently learning **Blockchain Development**
 - [cite_start]💬 Ask me about **Java/Spring Boot, Full-Stack Web Development, and Explainable AI** [cite: 33, 30]
 - [cite_start]🛠️ I work extensively with **Java (Spring Boot), MySQL, Apache NiFi, and Automated Reporting** [cite: 32, 35, 34, 19, 20]
@@ -28,9 +28,9 @@
     <a href="mailto:vedant.chauhan213@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://leetcode.com/Vedant27672/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-    </a>
+    <a href="https://leetcode.com/Vedant27672/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </a>
 </p>
 
 ---
@@ -39,7 +39,15 @@
 
 I work across backend services, cloud infrastructure, and modern application development.
 
-### 💻 Core Backend & Services
+### 📝 Comprehensive Skillset (from Resume)
+
+* [cite_start]**Languages:** C, C++, Java, Python, JavaScript, HTML, CSS, SQL [cite: 32]
+* [cite_start]**Frameworks & Libraries:** Spring Boot, React.js, Express.js, EJS, Flask, TensorFlow, Keras, CTGAN [cite: 33]
+* [cite_start]**Databases:** MySQL, MongoDB [cite: 35]
+* [cite_start]**Tools & Technologies:** Git, Jolt, Jasper Reports, Apache NiFi, Visual Studio Code [cite: 34]
+* [cite_start]**Core Skills:** REST API Development, Database Design, Object-Oriented Programming (OOP), Software Testing, Agile Development, Report Generation [cite: 36]
+
+### 💻 Key Technologies (Logos)
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
@@ -53,27 +61,37 @@ I work across backend services, cloud infrastructure, and modern application dev
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="EJS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="EJS" width="40" height="40"/>
 </p>
 
 ### 🧠 Data Science & Machine Learning
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
 </p>
 
 ### ⚙️ Tools, DevOps & Data Pipelines
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="Apache NiFi" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Jolt (No official icon, adding Bash as a common tool)" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="CI/CD (Representing with Jenkins)" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="Apache NiFi" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Jolt (No official icon, adding Bash as a common tool)" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="CI/CD (Representing with Jenkins)" width="40" height="40"/>
 </p>
+
+---
+
+## 🏆 Achievements & Education Highlights
+
+* [cite_start]Authored a paper on the PCOS Detection Tool, which was accepted at **IC3 2025** (top 12% acceptance rate among 481+ submissions)[cite: 38].
+* [cite_start]Secured a Top 10 finish among 50+ teams at **JIIT's Ride-Hack 2024** for Metropolis Assist[cite: 38].
+* [cite_start]Solved **800+ coding problems** across LeetCode, HackerRank, and GFG, earning multiple skill badges[cite: 39].
+* [cite_start]Completed a Full-Stack Web Development course on Udemy with certification[cite: 41].
+* [cite_start]B.Tech in Computer Science and Engineering from **Jaypee Institute of Information Technology** (CGPA: 8.0/10)[cite: 3, 12].
 
 ---
 
