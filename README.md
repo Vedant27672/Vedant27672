@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Software Engineer Intern** at **Salescode.ai** [cite: 1, 16] — building scalable production services & integrations
+- 🧑‍💻 **Software Engineer Intern** at **Salescode.ai** — building scalable production services & integrations
 - 🌱 Currently learning **Blockchain Development**
 - 💬 Ask me about **Java/Spring Boot, Full-Stack Web Development, and Explainable AI** [cite: 33, 30]
 - 🛠️ I work extensively with **Java (Spring Boot), MySQL, Apache NiFi, and Automated Reporting** [cite: 32, 35, 34, 19, 20]
@@ -41,7 +41,7 @@ I work across backend services, cloud infrastructure, and modern application dev
 
 ### 📝 Comprehensive Skillset (from Resume)
 
-* [cite_start]**Languages:** C, C++, Java, Python, JavaScript, HTML, CSS, SQL [cite: 32]
+* **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS, SQL [cite: 32]
 * [cite_start]**Frameworks & Libraries:** Spring Boot, React.js, Express.js, EJS, Flask, TensorFlow, Keras, CTGAN [cite: 33]
 * [cite_start]**Databases:** MySQL, MongoDB [cite: 35]
 * [cite_start]**Tools & Technologies:** Git, Jolt, Jasper Reports, Apache NiFi, Visual Studio Code [cite: 34]
