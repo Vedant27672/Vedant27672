@@ -1,9 +1,7 @@
 <!-- Banner Section -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20,%20I'm%20Vedant%20Singh%20Chauhan&fontSize=40&fontAlignY=40&desc=Solving%20real%20problems%20with%20innovative%20tech.&descAlignY=60&descAlign=60&descFontSize=16" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20,%20I'm%20Vedant%20Singh%20Chauhan&fontSize=40&fontAlignY=40&desc=Solving%20real%20problems%20with%20code%20%F0%9F%9A%80"/>
 </p>
-
-
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=vedant27672&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,8 +11,10 @@
 
 ## 🚀 About Me
 
+- 🧑‍💻 Software Engineer at **Salescode.ai** — building scalable production services & integrations
 - 🌱 Currently learning **Blockchain Development**
 - 💬 Ask me about **Web Development, Machine Learning, and Open Source**
+- 🛠️ I work extensively with **Java (Spring Boot), AWS, Jasper, Jolt, Slack integrations** and modern backend stacks
 - 📫 Reach me at **vedant2004chauhan@gmail.com**
 - ⚡ Fun fact: I love exploring new tech and building side projects!
 
@@ -33,30 +33,27 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technologies & Tools
+
+I work across backend services, cloud infra, and integrations. Key technologies:
+
+- Java, Spring Boot
+- AWS (EC2, Lambda, S3, RDS, IAM)
+- Jasper (AI-driven content generation)
+- Jolt (JSON transformations)
+- Slack (apps & integrations)
+- Databases: MySQL, MongoDB
+- Web: HTML, CSS, JavaScript, Node.js, Express
+- Machine learning: Python, TensorFlow, scikit-learn
+- Dev & infra: Git, Docker, CI/CD
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </p>
 
 ---
