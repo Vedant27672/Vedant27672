@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- [cite_start]🧑‍💻 **Software Engineer Intern** at **Salescode.ai** [cite: 1, 16] — building scalable production services & integrations
+- 🧑‍💻 **Software Engineer Intern** at **Salescode.ai** [cite: 1, 16] — building scalable production services & integrations
 - 🌱 Currently learning **Blockchain Development**
-- [cite_start]💬 Ask me about **Java/Spring Boot, Full-Stack Web Development, and Explainable AI** [cite: 33, 30]
-- [cite_start]🛠️ I work extensively with **Java (Spring Boot), MySQL, Apache NiFi, and Automated Reporting** [cite: 32, 35, 34, 19, 20]
-- [cite_start]📫 Reach me at **vedant.chauhan213@gmail.com** or **vedant2004chauhan@gmail.com** [cite: 8]
+- 💬 Ask me about **Java/Spring Boot, Full-Stack Web Development, and Explainable AI** [cite: 33, 30]
+- 🛠️ I work extensively with **Java (Spring Boot), MySQL, Apache NiFi, and Automated Reporting** [cite: 32, 35, 34, 19, 20]
+- 📫 Reach me at **vedant.chauhan213@gmail.com** or **vedant2004chauhan@gmail.com** [cite: 8]
 - ⚡ Fun fact: I love exploring new tech and building side projects!
 
 ---
