@@ -93,36 +93,6 @@ I work across backend services, cloud infrastructure, and modern application dev
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=vedant27672&theme=algolia&margin-w=10" alt="GitHub Profile Trophy"/>
-    </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vedant27672&show_icons=true&theme=algolia" alt="GitHub Stats"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant27672&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="Vedant's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vedant27672&theme=react-dark&hide_border=true&area=true" />
-    </a>
-</p>
-
----
-
 ## 📝 Latest Blog Posts
 
 ---
