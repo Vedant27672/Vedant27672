@@ -1,110 +1,160 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20,%20I'm%20Vedant%20Singh%20Chauhan&fontSize=40&fontAlignY=40&desc=Solving%20real%20problems%20with%20code%20%F0%9F%9A%80"/>
-</p>
+<div align="center">
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vedant27672&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vedant%20Singh%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Backend%20Developer&descAlignY=58&descSize=18"/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+backend+services+%F0%9F%9A%80;Full-Stack+%7C+ML+%7C+Blockchain+Developer;CSE+Undergrad+%40+JIIT+Noida;Software+Engineer+Intern+%40+Salescode.ai)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=vedant27672&label=Profile+Views&color=6AD3F7&style=flat-square" alt="Profile views" />
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Vedant27672?label=Followers&style=flat-square&color=6AD3F7)](https://github.com/Vedant27672)
 
-- 🧑‍💻 **Software Engineer Intern** at **Salescode.ai** — building scalable production services & integrations  
-- 🌱 Currently learning **Blockchain Development**  
-- 💬 Ask me about **Java/Spring Boot, Full-Stack Web Development, and Explainable AI**  
-- 🛠️ I work extensively with **Java (Spring Boot), MySQL, Apache NiFi, and Automated Reporting**  
-- 📫 Reach me at **vedant.chauhan213@gmail.com** or **vedant2004chauhan@gmail.com**  
-- ⚡ Fun fact: I love exploring new tech and building side projects!
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🧑‍💻 About Me
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/vedant-singh-chauhan-417a10248/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:vedant.chauhan213@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://leetcode.com/u/LeetcodeVedant/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-    </a>
-    <a href="https://portfolio-vedant.onrender.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-    </a>
-</p>
+```typescript
+const vedant = {
+  role:       "Software Engineer Intern @ Salescode.ai",
+  education:  "B.Tech CSE @ JIIT Noida (CGPA: 8.0/10)",
+  focus:      ["Backend APIs", "Full-Stack Web", "ML & XAI", "Blockchain"],
+  currentlyLearning: "Blockchain Development & System Design",
+  achievement: "Research paper accepted at IC3 2025 (top 12% of 481+ submissions)",
+  contact:    "vedant2004chauhan@gmail.com",
+  funFact:    "I've solved 800+ DSA problems and still enjoy it 😄"
+};
+```
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌐 Connect With Me
 
-I work across backend services, cloud infrastructure, and modern application development.
+<div align="center">
 
-### 📝 Comprehensive Skillset
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-singh-chauhan-417a10248/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedant2004chauhan@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LeetcodeVedant/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vedant.onrender.com/)
 
-* **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS, SQL  
-* **Frameworks & Libraries:** Spring Boot, React.js, Express.js, EJS, Flask, TensorFlow, Keras, CTGAN  
-* **Databases:** MySQL, MongoDB  
-* **Tools & Technologies:** Git, Jolt, Jasper Reports, Apache NiFi, Visual Studio Code  
-* **Core Skills:** REST API Development, Database Design, Object-Oriented Programming (OOP), Software Testing, Agile Development, Report Generation  
-
-### 💻 Key Technologies
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</p>
-
-### 🌐 Frontend & Web Development
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-### 🧠 Data Science & Machine Learning
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-</p>
-
-### ⚙️ Tools, DevOps & Data Pipelines
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="Apache NiFi" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Jolt (No official icon, adding Bash as a common tool)" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="CI/CD (Representing with Jenkins)" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
-## 🏆 Achievements & Education Highlights
+## 🛠️ Tech Stack
 
-* Authored a paper on the PCOS Detection Tool, accepted at **IC3 2025** (top 12% acceptance rate among 481+ submissions).  
-* Secured a **Top 10** finish among 50+ teams at **JIIT's Ride-Hack 2024** for Metropolis Assist.  
-* Solved **800+ coding problems** across LeetCode, HackerRank, and GFG, earning multiple skill badges.  
-* Completed a Full-Stack Web Development course on Udemy with certification.  
-* B.Tech in Computer Science and Engineering from **Jaypee Institute of Information Technology** (CGPA: 8.0/10).  
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-## 📝 Latest Blog Posts
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vedant27672&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant27672&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vedant27672&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vedant27672&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/Vedant27672)
+
+</div>
 
 ---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![PCOS XAI](https://github-readme-stats.vercel.app/api/pin/?username=Vedant27672&repo=PCOS_detection_XAI&theme=tokyonight&hide_border=true)](https://github.com/Vedant27672/PCOS_detection_XAI)
+&nbsp;
+[![Blockchain Storage](https://github-readme-stats.vercel.app/api/pin/?username=Vedant27672&repo=Minor_2_PCOS_blockchain&theme=tokyonight&hide_border=true)](https://github.com/Vedant27672/Minor_2_PCOS_blockchain)
+
+[![CampEase](https://github-readme-stats.vercel.app/api/pin/?username=Vedant27672&repo=CampEase&theme=tokyonight&hide_border=true)](https://github.com/Vedant27672/CampEase)
+&nbsp;
+[![City Tour Navigator](https://github-readme-stats.vercel.app/api/pin/?username=Vedant27672&repo=City_Tour_Navigator&theme=tokyonight&hide_border=true)](https://github.com/Vedant27672/City_Tour_Navigator)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+| Achievement | Details |
+|---|---|
+| 📄 **Published Research** | Paper on PCOS Detection Tool accepted at **IC3 2025** — top 12% of 481+ submissions |
+| 🥇 **Hackathon** | **Top 10** finish among 50+ teams at JIIT Ride-Hack 2024 for Metropolis Assist |
+| 💻 **DSA** | Solved **800+ problems** on LeetCode, HackerRank & GFG with multiple skill badges |
+| 🎓 **Education** | B.Tech CSE @ **JIIT Noida** — CGPA: 8.0/10 |
+| 🏢 **Experience** | Software Engineer Intern @ **Salescode.ai** — Spring Boot, Apache NiFi, Jasper Reports |
+
+---
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant27672&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
 
 > _"Strive not to be a success, but rather to be of value." – Albert Einstein_
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
-</p>
+</div>
